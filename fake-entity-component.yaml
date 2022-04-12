@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: fake-entity
+  description: Fake Entity
+  tags:
+    - javascript
+spec:
+  type: service
+  lifecycle: dev
+  owner: user:guest
+  system: fake-system
