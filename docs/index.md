@@ -1,3 +1,3 @@
 # Fake Entity Documentation
 
-This should be read by techdocs and imported to the backstage backend.
+This is the primary document, which lives at 'Primary' in the navigation.
