@@ -1,3 +1,3 @@
-# Fake Entity Secondary Document
+# Fake Entity Primary Document
 
-This is the test secondary document.
+This is the test primary document.
