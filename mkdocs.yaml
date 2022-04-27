@@ -1,7 +1,3 @@
-site_name: 'example-docs'
-
+site_name: 'repo-name-here'
 nav:
-  - Home: index.md
-
-plugins:
-  - techdocs-core
+  - Home: ./test-dir/index.md
