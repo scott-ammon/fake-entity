@@ -1,5 +1,5 @@
 site_name: 'repo-name-here'
 docs_dir: ./test-dir
 nav:
-  - Primary: index.md
+  - Primary: readme.md
   - Secondary: secondary.md
