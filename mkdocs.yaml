@@ -1,4 +1,3 @@
 site_name: 'repo-name-here'
-docs_dir: ./
 nav:
   - Readme: readme.md
